@@ -1,4 +1,5 @@
-{
+[
+    {
     "title": "faqret elsaher",
     "episode": "episode 5",
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2E3NWUzOWMtOGUyNC00M2YyLWI1Y2QtZGM3OWRiYmFkOTNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -39,4 +40,5 @@
     "episode": "episode 6",
     "posterUrl": "https://media0065.elcinema.com/uploads/_640x_8ec36bca46d3c63f31ae9da49e6eab2ca867dbc8d1cd6a00266f6fc590881546.jpg",
     "videoUrl": "https://cdn-vsped-ter12-bb12.dialymotion.online/liwapphbky2nsti77gkcus2nwy4pe3g2p6ahoclvpfnzpobt5gbrvp3vw7uq/Mirage.S01E06.mp4"
-  },
+  }
+]
